@@ -1,8 +1,8 @@
 # HttpBin Pizza Order Form Client
 ![TypeScript](https://img.shields.io/badge/TypeScript-deepskyblue)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
+![Playwright](https://img.shields.io/badge/Play-wright-red?labelColor=green)
 ![Jest](https://img.shields.io/badge/Jest-maroon)
-![Playwright](https://img.shields.io/badge/Play-wright-darkred?labelColor=green)
 
 TypeScript + Playwright integration with [httpbin.org forms/post](https://httpbin.org/forms/post).  
 Submits a pizza order form to httpbin.org and validates request/response. Simulates a browser user filling and submitting a pizza order form.
