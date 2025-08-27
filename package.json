@@ -1,0 +1,24 @@
+{
+  "name": "httpbin-form-submit-client",
+  "version": "1.0.0",
+  "description": "Submits a pizza order form to httpbin.org and validates request/response. Simulates a browser user filling and submitting a pizza order form.",
+  "main": "index.ts",
+  "scripts": {
+    "postinstall": "npx playwright install && npx playwright install-deps",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "build": "tsc"
+  },
+  "author": "Cole Roberts",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.10.6",
+    "globals": "^16.3.0",
+    "jest": "^29.7.0",
+    "playwright": "^1.44.0",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
