@@ -29,13 +29,13 @@ This project emphasizes:
 
 ## Project Structure
 
-.
-├── routes/ \n
-│ └── submit.ts \n
-├── types/ \n
-│ └── submit.types.ts \n
-├── tests/ \n
-│ └── submit.test.ts \n
+
+├── routes/
+│ └── submit.ts
+├── types/
+│ └── submit.types.ts
+├── tests/
+│ └── submit.test.ts
 ├── index.ts
 
 ### `types/` Directory
