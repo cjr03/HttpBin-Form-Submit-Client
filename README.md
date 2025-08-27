@@ -31,7 +31,6 @@ This project emphasizes:
 
 
 ├── routes/
-
 │ └── submit.ts
 
 ├── types/
