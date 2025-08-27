@@ -29,13 +29,18 @@ This project emphasizes:
 
 ## Project Structure
 
-
 ├── routes/
-│ └── submit.ts
+
+ │ └── submit.ts
+
 ├── types/
-│ └── submit.types.ts
+
+ │ └── submit.types.ts
+ 
 ├── tests/
-│ └── submit.test.ts
+
+ │ └── submit.test.ts
+
 ├── index.ts
 
 ### `types/` Directory
@@ -63,7 +68,7 @@ This project emphasizes:
 
 ---
 
-## Usage
+## Example Usage
 
 ```ts
 import { submitOrder } from "./routes/submit";
@@ -86,8 +91,10 @@ console.log(response.form);
 
 ## Run Tests
 
+``` bash
 npm install
 npm test
+```
 
 ---
 
