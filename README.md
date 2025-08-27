@@ -31,11 +31,17 @@ This project emphasizes:
 
 
 ├── routes/
+
 │ └── submit.ts
+
 ├── types/
+
 │ └── submit.types.ts
+
 ├── tests/
+
 │ └── submit.test.ts
+
 ├── index.ts
 
 ### `types/` Directory
